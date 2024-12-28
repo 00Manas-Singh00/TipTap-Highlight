@@ -18,8 +18,8 @@ To get started with the Tiptap Text Highlight Extension, follow the steps below:
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/tiptap-text-highlight-extension.git
-cd tiptap-text-highlight-extension
+git clone [https://github.com/your-username/tiptap-text-highlight-extension.git](https://github.com/00Manas-Singh00/TipTap-Highlight.git)
+cd TipTap-Highlight
 ```
 
 ### 2. Install Dependencies
